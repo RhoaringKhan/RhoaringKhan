@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christian Waldon</h1>
 <h3 align="center">A AI engineer interested in all things tech!</h3>
-<iframe src="https://giphy.com/embed/BcecfiGFLByCs" width="480" height="462" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ali-BcecfiGFLByCs">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/BcecfiGFLByCs" width="480" height="462">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhoaringkhan&label=Profile%20views&color=0e75b6&style=flat" alt="rhoaringkhan" /> </p>
 
